@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Amber Clock</string>
+    <string name="widget_desc">Amber clock with scattered numbers. Tap to reshuffle.</string>
+</resources>
